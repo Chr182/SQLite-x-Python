@@ -3,8 +3,6 @@ import pandas as pd
 from sqlite3 import Error
 import os
 
-#Yohanes Christopher Hardjito XI5/34
-
 #-----PREQUISITES
 # 1. sqlite3 module
 # 2. pandas module
